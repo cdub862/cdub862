@@ -1,16 +1,22 @@
-## Hi there 👋
+# Carlos Dubus
 
-<!--
-**cdub862/cdub862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-Stack Developer**
 
-Here are some ideas to get you started:
+Software engineer with extensive experience building web applications, backend services, and cloud-based systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional background includes full-stack development with Python, TypeScript, React, Laravel, and AWS, with an emphasis on maintainable architecture and reliable software.
+
+### Technologies
+
+- **Backend:** Python, FastAPI, Laravel, GraphQL, REST APIs
+- **Frontend:** TypeScript, JavaScript, React, Next.js
+- **Infrastructure:** AWS, Docker, ECS, Lambda
+- **Additional interests:** Unity, computer graphics, native applications
+
+### Featured Projects
+
+Projects and technical demonstrations coming soon.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/carlosdubus)
